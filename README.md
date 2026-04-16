@@ -1,74 +1,29 @@
-# 👋 Hi, I'm Kunal
+<h1 align="center">Hi 👋, I'm kunalbhanuse</h1>
+<h3 align="center">MERN Stack Developer focused on backend engineering, scalable systems, and clean API architecture</h3>
 
-🚀 Backend Developer focused on building scalable systems and clean architectures.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalbhanuse&label=Profile%20views&color=0e75b6&style=flat" alt="kunalbhanuse" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalbhanuse" alt="kunalbhanuse" /></a> </p>
 
-## 🧠 Currently Building
+- 🔭 I’m currently working on [Ipl Management](https://github.com/kunalbhanuse?tab=repositories)
 
-- 🏏 IPL Management System  
-  → Multi-entity backend (Owner, Player, Sponsor, Broadcaster)  
-  → Role-based access control  
-  → Clean Service-Controller architecture
+- 🌱 I’m currently learning **Advanced backend patterns and system design.**
 
-- 🔐 Authentication System  
-  → JWT (Access + Refresh Tokens)  
-  → Secure password handling (bcrypt + crypto)  
-  → Session & token flow design
+- 💬 Ask me about **Backend architecture & scalable systems - REST API design - JWT authentication & role-based access control - MongoDB & data modeling -React -Nodejs**
 
----
+- 📫 How to reach me **kunalbhanuse07@gmail.com**
 
-## 💻 Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kunalbhanu6680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalbhanu6680" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunalbhanuse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunalbhanuse" height="30" width="40" /></a>
+</p>
 
-- **Backend:** Node.js, Express
-- **Database:** MongoDB (Mongoose), PostgreSQL (learning)
-- **Auth & Security:** JWT, Bcrypt, Cookies
-- **Architecture:** REST APIs, Service-Controller Pattern
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbhanuse&show_icons=true&locale=en&layout=compact" alt="kunalbhanuse" /></p>
 
-## 🔥 What I Focus On
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalbhanuse&show_icons=true&locale=en" alt="kunalbhanuse" /></p>
 
-- Writing **clean and maintainable backend code**
-- Designing **scalable API structures**
-- Handling **real-world problems** like auth, roles, and data relationships
-- Improving **system design thinking**
-
----
-
-## 📌 Featured Projects
-
-### 🏏 IPL Management System
-
-- Multi-role system (Owner, Player, Sponsor, Broadcaster)
-- Structured backend with validation, services, and controllers
-- Focus on scalability and clean architecture
-
-### 🔐 Auth System
-
-- JWT-based authentication (access + refresh tokens)
-- Secure login & session handling
-- Production-ready architecture approach
-
----
-
-## 📈 Currently Learning
-
-- Advanced backend patterns
-- Database design & optimization
-- System design fundamentals
-
----
-
-## ⚡ Fun Fact
-
-I’m focused on becoming **really good at backend engineering**, not just “knowing tools.”
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (add your link)
-- Email: (add your email)
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalbhanuse&" alt="kunalbhanuse" /></p>
