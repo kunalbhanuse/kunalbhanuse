@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kunal%20Bhanuse&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=16&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kunal%20Bhanuse&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Systems%20%7C%20Auth%20Flows&descAlignY=58&descSize=16&descColor=94a3b8" />
 
 </div>
 
@@ -29,22 +29,33 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+
+I'm a **Full Stack Developer** from India 🇮🇳, passionate about building systems that go beyond surface-level implementation. My core interest lies in understanding **how things work under the hood** — from the way a browser handles an OAuth redirect, to how tokens are cryptographically signed and verified with RS256.
+
+I work across the full MERN stack, but my deepest focus is on the **backend** — designing secure APIs, implementing authentication flows from first principles, and crafting architectures that are clean, scalable, and production-ready.
+
+<br/>
+
+**A few things that define how I work:**
+
+- 🔐 Built an **OAuth 2.0 + OpenID Connect** identity provider from scratch — not to ship a feature, but to truly understand how identity protocols work at every layer.
+- 📖 Write technical deep-dives on **JavaScript internals, React's reconciliation algorithm, and auth systems** — because genuine understanding beats surface-level knowledge every time.
+- 🏗️ I approach every project with a production mindset — clean architecture, secure defaults, and code that other developers can actually read and maintain.
+
+<br/>
+
+> _"I don't just plug in libraries — I read the spec, trace the flow, and understand every layer before I ship."_
+
+<br/>
+
 ```ts
-const kunal: Developer = {
-  name: "Kunal Bhanuse",
-  role: "MERN Stack Developer",
+const kunal = {
+  role: "Full Stack Developer",
   location: "India 🇮🇳",
-
-  focus: [
-    "Backend Systems & API Architecture",
-    "OAuth 2.0 & OpenID Connect",
-    "JWT, Cookies & Secure Auth Flows",
-    "Scalable Full Stack Applications",
-  ],
-
-  philosophy: "I don't just use libraries — I understand what's inside them.",
-  currentlyBuilding: "OpenID Mini — an OAuth 2.0 + OIDC provider from scratch",
-  writing: "Technical blogs on JS, React internals & auth on Hashnode",
+  speciality: ["OAuth 2.0", "OpenID Connect", "JWT Auth", "REST API Design"],
+  currentBuild: "OpenID Mini — OIDC Identity Provider from scratch",
+  openTo: ["Full-time Roles", "Internships", "Freelance", "Collaborations"],
 };
 ```
 
@@ -56,60 +67,69 @@ const kunal: Developer = {
 
 <br/>
 
-**⚡ Languages**
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### ⚡ Languages
 
-<br/>
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
 
-**⚙️ Backend**
+### 🎨 Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<br/>
-
-**🗄️ Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br/>
 
-**🔐 Auth & Security** _(My Speciality)_
+### ⚙️ Backend
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![OpenID](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=flat-square&logoColor=white)
-![RS256](https://img.shields.io/badge/RS256-4ADE80?style=flat-square&logoColor=black)
-![JWKS](https://img.shields.io/badge/JWKS-0EA5E9?style=flat-square&logoColor=white)
-![Cookies](https://img.shields.io/badge/HTTP--only_Cookies-8B5CF6?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/>
 
-**🧰 Tools**
+### 🔐 Auth & Security _(Core Strength)_
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF6600?style=flat-square&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OpenID](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logoColor=white)
+![RS256](https://img.shields.io/badge/RS256-4ADE80?style=for-the-badge&logoColor=black)
+![JWKS](https://img.shields.io/badge/JWKS-0EA5E9?style=for-the-badge&logoColor=white)
+![Cookies](https://img.shields.io/badge/HTTP--only_Cookies-8B5CF6?style=for-the-badge&logoColor=white)
+
+<br/>
+
+### 🧰 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+    </td>
+
+  </tr>
+</table>
 
 <br/>
 
